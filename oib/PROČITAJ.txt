@@ -1,0 +1,18 @@
+Primjer validnosti oib-a
+
+  "27232371867"   true
+"HR27232371867"   true
+  "27232371868"   false
+   27232371867    true
+
+NAPOMENA
+To što broj može biti legalan OIB, ne znači da je i legitiman
+OIB izdaje samo država i vezan je za osobu.
+
+OIB se sastoji od 11 znamenaka.
+Prvih 10 određuje se slučajnim odabirom,
+a 11. predstavlja kontrolni broj izračunat po „Modul 11,10“ ISO 7064.
+
+Više o OIB-u: www.oib.hr
+
+

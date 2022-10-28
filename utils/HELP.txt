@@ -1,0 +1,5 @@
+    copy.js   create an immutable clone of an array or object
+  extend.js   merges the content of subsequent objects into the first one, overriding it’s original values
+group-by.js   efficient method to groupby on an array of objects
+
+Appropriate examples of usage are located in subfolder called /demo
